@@ -1,0 +1,279 @@
+{
+    "Fanny Neguesha": {
+        "height": 1.73, "weight": 56,
+        "sizes": "86-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "BE",
+        "birthday": "June 10, 1990",
+        "language": {
+            "RU": { "title": "Фанни Негёша" }
+        }
+    },
+    "Rihanna": {
+        "height": 1.73, "weight": 60,
+        "sizes": "87-61-92", "shoe_size": 10,
+        "country": "BB", "nsfw": "true",
+        "birthday": "February 20, 1988",
+        "language": {
+            "RU": { "title": "Рианна" }
+        }
+    },
+    "Ariana Grande": {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Scarlett Johansson": {
+        "height": 1.6, "weight": 57,
+        "sizes": "92-64-92", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "November 22, 1984",
+        "language": {
+            "RU": { "title": "Скарлетт Йоханссон" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Claudia Romani": {
+        "height": 1.7, "weight": 55,
+        "sizes": "89-64-92", "nsfw": "true",
+        "shoe_size": 7.5, "country": "IT",
+        "birthday": "April 14, 1982",
+        "language": {
+            "RU": { "title": "Клаудия Романи" }
+        }
+    },
+    "Caila Quinn": {
+        "height": 1.67, "weight": 60, "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "December 10, 1991",
+        "language": {
+            "RU": { "title": "Кайла Куинн" }
+        }
+    },
+    "Ashley Graham": {
+        "height": 1.75, "weight": 85,
+        "sizes": "107-96-117", "nsfw": "true",
+        "shoe_size": 10, "country": "US",
+        "birthday": "October 30, 1987",
+        "language": {
+            "RU": { "title": "Эшли Грэм" }
+        }
+    },
+    "Amber Heard": {
+        "height": 1.7, "weight": 55,
+        "sizes": "81-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "April 22, 1986",
+        "language": {
+            "RU": { "title": "Амбер Хёрд" }
+        }
+    },
+    "Victoria Justice": {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "February 19, 1993",
+        "language": {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Eva Darling": {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
+        "language": {
+            "RU": { "title": "Ева Дарлин" }
+        }
+    },
+    "Olivia Culpo": {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language": {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
+    "Tiffany Haddish": {
+        "height": 1.67, "weight": 59,
+        "sizes": "84-66-81", "nsfw": "true",
+        "shoe_size": 8, "country": "US", 
+        "birthday": "December 3, 1979",
+        "language": {
+            "RU": { "title": "Тиффани Хаддиш" }
+        }
+    },
+    "Dua Lipa": {
+        "height": 1.73, "weight": 61,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 22, 1995",
+        "language": {
+            "RU": { "title": "Дуа Липа" }
+        }
+    },
+    "Vittoria di Savoia": {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 8, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
+    "Rosie Huntington-Whiteley": {
+        "height": 1.75, "weight": 54,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 9, "country": "GB",
+        "birthday": "April 18, 1987",
+        "language": {
+            "RU": { "title": "Роузи Хантингтон-Уайтли" }
+        }
+    },
+    "Elena Gheorghe": {
+        "height": 1.6, "weight": 50, "nsfw": "true",
+        "shoe_size": 7.5, "country": "RO",
+        "birthday": "July 30, 1985",
+        "language": {
+            "RU": { "title": "Елена Георге" }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXX": {
+        "insignia": "Lady", "nsfw": "true", "country": "IT",
+        "memoir": "Beside the stormy sea one day I envied sore the billows tall, Which rushed in eager dense array Enamoured at her feet to fall. How like the billow I desired To kiss the feet which I admired! No, never in the early blaze Of fiery youth’s untutored days So ardently did I desire A young Armida’s lips to press, Her cheek of rosy loveliness Or bosom full of languid fire, - A gust of passion never tore My spirit with such pangs before.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXX",
+                "memoir": "Увы, на разные забавы Я много жизни погубил! Но если б не страдали нравы, Я балы б до сих пор любил. Люблю я бешеную младость, И тесноту, и блеск, и радость, И дам обдуманный наряд; Люблю их ножки; только вряд Найдете вы в России целой Три пары стройных женских ног. Ах! долго я забыть не мог Две ножки... Грустный, охладелый, Я всё их помню, и во сне Они тревожат сердце мне."
+            }
+        }
+    },
+    "Couture Boudoir": {
+        "insignia": "Lady", "nsfw": "true", "country": "FR",
+        "maison": "https://www.coutureboudoir.com",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
+    "New York Public Library": {
+        "insignia": "Palace", "country": "US",
+        "maison": "https://www.nypl.org",
+        "memoir": "The origins of this remarkable institution date back to the time when New York was emerging as one of the world's most important cities. By the second half of the 19th century, New York had already surpassed Paris in population and was quickly catching up with London, then the world's most populous city. Fortunately, this burgeoning and somewhat brash metropolis counted among its citizens men who foresaw that if New York was indeed to become one of the world's great centers of urban culture, it must also have a great library. Prominent among them was one-time governor Samuel J. Tilden (1814-1886), who upon his death bequeathed the bulk of his fortune - about $2.4 million - to \"establish and maintain a free library and reading room in the city of New York.\"",
+        "language": {
+            "RU": {
+                "title": "Нью-Йоркская публичная библиотека",
+                "memoir": "Истоки этого замечательного учреждения восходят к тому времени, когда Нью-Йорк становился одним из важнейших городов мира. Ко второй половине XIX века Нью-Йорк уже превзошел Париж по численности населения и быстро догонял Лондон, который в то время был самым густонаселенным городом мира. К счастью, среди его жителей были люди, которые предвидели, что если Нью-Йорк действительно станет одним из крупнейших мировых центров городской культуры, то он также должен иметь большую библиотеку. Видным среди них был бывший губернатор Сэмюэл Дж. Тилден (1814-1886), который после своей смерти завещал большую часть своего состояния - около 2,4 миллиона долларов - на «создание и поддержание бесплатной библиотеки и читального зала в городе Нью-Йорке»."
+            }
+        }
+    },
+    "Le Petit Trianon": {
+        "insignia": "Palace", "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language": {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
+        }
+    },
+    "The Elegance of European-Crafted Clothing": {
+        "country": "EU", "insignia": "Formal",
+        "maison": "https://www.thepemberleygroup.com/blog/the-elegance-of-european-crafted-clothing",
+        "memoir": "This clothing tends to veer towards sophisticated designs. While loose clothing and boho-chic styles take the stage on this side of the world, demure designs are still popular in many circles. There’s a reason to praise Europeans for their fashion choices—their commitment to being well-dressed at all times stands out against many other fashions of the world. Still, this clothing isn’t only for fancy evenings that demand high-end clothing. In fact, many European-crafted clothing embrace an upscale street style that blends chic fashion with sensible designs perfect for everyday wear.",
+        "language": {
+            "RU": {
+                "title": "Элегантность одежды европейского производства",
+                "memoir": "Эта одежда имеет тенденцию склоняться к изысканным дизайнам. В то время как свободная одежда и стили бохо-шик выходят на сцену в этой части света, сдержанные дизайны по-прежнему популярны во многих кругах. Есть причина похвалить европейцев за их выбор моды — их приверженность быть хорошо одетыми в любое время выделяется на фоне многих других мод мира. Тем не менее, эта одежда предназначена не только для модных вечеров, которые требуют высококачественной одежды. На самом деле, многие предметы одежды европейского производства охватывают высококлассный уличный стиль, который сочетает в себе шикарную моду с разумным дизайном, идеально подходящим для повседневной носки."
+            }
+        }
+    },
+    "Monte Carlo Casino, Monaco": {
+        "country": "FR", "insignia": "Clock",
+        "maison": "https://www.jamesbondlifestyle.com/product/monte-carlo-casino-monaco",
+        "memoir": "One of the most glamorous Bond locations is the Casino Monte Carlo in the country of Monaco, the second smallest country in the world (after the Vatican). The beautiful casino with it's impressive facade features prominently in Never Say Never Again and GoldenEye. The first time Bond visits the casino is in Never Say Never Again (the remake of Thunderball, not produced by EON but with Sean Connery as James Bond). Bond plays the 'futuristic' laser videogame 'Domination' with Largo as Domino Petachi looks on, during the Charity Ball organised by Largo in the casino. In the film, the casino is called The Casino Royale Monte Carlo. In the 1995 James Bond movie GoldenEye, Pierce Brosnan as Bond meets Xenia Onatopp inside the casino. First he beats her at a game of Baccarat and then he meets her for a drink at the bar.",
+        "language": {
+            "RU": {
+                "title": "Казино Монте-Карло, Монако",
+                "memoir": "Одно из самых гламурных мест Бонда — казино Монте-Карло в стране Монако, второй по величине стране в мире (после Ватикана). Красивое казино с впечатляющим фасадом занимает видное место в фильмах «Никогда не говори никогда» и «Золотой глаз». Впервые Бонд посещает казино в фильме «Никогда не говори никогда» (ремейк фильма «Шаровая молния», снятый не EON, но с Шоном Коннери в роли Джеймса Бонда). Бонд играет в «футуристическую» лазерную видеоигру «Доминирование» с Ларго, а Домино Петачи наблюдает за происходящим во время благотворительного бала, организованного Ларго в казино. В фильме казино называется «Казино Рояль Монте-Карло». В фильме о Джеймсе Бонде 1995 года «Золотой глаз» Пирс Броснан в роли Бонда встречает Ксению Онатопп в казино. Сначала он обыгрывает ее в баккара, а затем встречается с ней за выпивкой в ​​баре."
+            }
+        }
+    },
+    "Gordon Ramsay Wines": {
+        "country": "GB", "insignia": "Wine",
+        "maison": "https://www.gordonramsay.com",
+        "memoir": "\"Running a 3 Michelin star restaurant for over 20 years means I have had the joy of tasting some of the finest wines in the world. Wine making has always fascinated me; it’s a magical process where tradition, passion, and science are blended together and captured in one stunning bottle.\"",
+        "language": {
+            "RU": {
+                "title": "Вина от шеф-повара Гордона Рамзая",
+                "memoir": "«Управление рестораном, отмеченным тремя звездами Мишлен, на протяжении более 20 лет дало мне возможность попробовать одни из лучших вин в мире. Виноделие всегда завораживало меня; это волшебный процесс, в котором традиции, страсть и наука смешиваются и заключаются в одной потрясающей бутылке»."
+            }
+        }
+    },
+    "European Café Culture": {
+        "country": "EU", "insignia": "Coffee",
+        "maison": "https://coffeeaffection.com/european-coffee-culture",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language": {
+            "RU": {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
+        }
+    },
+    "Viennese Coffee House Culture": {
+        "country": "AT", "insignia": "AustroHungary",
+        "maison": "https://www.unesco.at/en/culture/intangible-cultural-heritage/national-inventory/news-1/article/viennese-coffee-house-culture",
+        "memoir": "The story of the Viennese coffeehouse began near the end of the 17th century and was closely tied to the Turkish siege of the city. Vienna’s first coffeehouse was established by the Armenian spy Deodato, who was entrusted with brewing coffee for the Habsburg court in Vienna. In 1720, Café Kramer, on the Graben, was the first coffeehouse to offer newspapers for their customers to peruse.",
+        "language": {
+            "RU": {
+                "title": "Венская кафе-культура",
+                "memoir": "История венской кофейни началась в конце XVII века и была тесно связана с турецкой осадой города. Первую венскую кофейню основал армянский шпион Деодато, которому было поручено варить кофе для двора Габсбургов в Вене. В 1720 году Café Kramer на Грабене стало первой кофейней, предлагавшей своим клиентам газеты для чтения."
+            }
+        }
+    },
+    "Café Pouchkine": {
+        "country": "RU", "insignia": "Pushkin",
+        "maison": "https://www.parismarais.com/en/cafe-pouchkine.html",
+        "memoir": "Created by Andrey Dellos, Café Pouchkine is a must taste destination of the Russian and Parisian capital. Dedicated to the Russian and French noble cuisine, it is today a mythical place recognized in the world. Opened in December 2013, the Café Pouchkine located Places des Vosges is a space dedicated to glutonny where the elegant creations of the pastry chef Damien Piscioneri are presented. In tribute to charm and to the Russian elegance, pastries at Café Pouchkine are small treasures with the soft Slavic accents. Sophistication, elegance, balance of flavours and textures are the keywords of our creations. Guaranteed pleasure and change of scenery!",
+        "language": {
+            "RU": {
+                "title": "Кафе Пушкин",
+                "memoir": "Созданное Андреем Деллосом, Café Pouchkine является обязательным для посещения местом в российской и парижской столице. Посвященное русской и французской дворянской кухне, сегодня это мифическое место признано в мире. Открытое в декабре 2013 года, Café Pouchkine, расположенное на площади Вогезов, является пространством, посвященным чревоугодию, где представлены элегантные творения кондитера Дэмьена Писчонери. В знак уважения к очарованию и русской элегантности выпечка в Café Pouchkine представляет собой маленькие сокровища с мягкими славянскими акцентами. Изысканность, элегантность, баланс вкусов и текстур — ключевые слова наших творений. Гарантированное удовольствие и смена обстановки!"
+            }
+        }
+    },
+    "Rendez-vous café avec une femme, Part I": {
+        "country": "EU", "insignia": "Coffee",
+        "memoir": "How not to ruin the first meeting, on which your future together depends? What are the ways to interest, earn trust and reciprocal sympathy? It is enough to know the basic rules of decency. It does not matter who invited you on a date, the main thing is that it happened unobtrusively and tactfully. Today, no one will be surprised by women's activity, including in matters of dating and organizing meetings. Everything depends on the situation. Do not try to impress with originality and arrange a winter picnic on a tree. You should know the place where you are taking your companion well. Imagine you come to a cafe, and they tell you that there are no free tables / they have face control / yesterday several visitors were hospitalized with poisoning, etc. Whatever happens at the meeting place, it will be associated with the person who invited you, and will be regarded as a bad sign. Good old classics will help both men and women. You will show off your exquisite outfits later, if the acquaintance continues. Women should not overdo it with makeup. Let your chosen one have an idea of ​​who he will have to deal with every day in the apartment if you live together. And you both count on this, don't you? Good manners and upbringing have always been valued by people.",
+        "language": {
+            "RU": {
+                "title": "Свидание с женщиной в кафе, Часть 1",
+                "memoir": "Как не испортить первую встречу, от которой зависит ваше совместное будущее? Какими способами можно заинтересовать, заслужить доверие и ответную симпатию? Достаточно знать элементарные правила приличия. Неважно, кто пригласил вас на свидание, главное, чтобы это произошло ненавязчиво и тактично. Сегодня никого не удивишь женской активностью, в том числе в вопросах знакомств и организации встреч. Все зависит от ситуации. Не пытайтесь поразить оригинальностью и устройте зимний пикник на дереве. Вы должны хорошо знать место, куда ведете свою спутницу. Представьте, вы приходите в кафе, а вам говорят, что свободных столиков нет / у них фейсконтроль / вчера несколько посетителей попали в больницу с отравлением и т. д. Что бы ни произошло на месте встречи, это будет ассоциироваться с тем, кто вас пригласил, и будет расценено как плохой знак. Старая добрая классика поможет и мужчинам, и женщинам. Вы будете хвастаться своими изысканными нарядами позже, если знакомство продолжится. Женщинам не стоит перебарщивать с макияжем. Пусть ваш избранник будет иметь представление, с кем ему придется иметь дело каждый день в квартире, если вы будете жить вместе. А вы оба на это рассчитываете, не так ли? Хорошие манеры и воспитание всегда ценились людьми."
+            }
+        }
+    },
+    "Rendez-vous café avec une femme, Part II": {
+        "country": "EU", "insignia": "Coffee",
+        "memoir": "Giving a hand, opening a door, moving a chair - these are well-known techniques of male etiquette. Girls should not rush to do everything themselves, or take a seat in a cafe or restaurant faster. Greedily devouring the dishes brought, while ordering seconds, is also not recommended. After all, you came to get to know the person better, and not his solvency. Leave large bags at home. Take only the most necessary things with you: napkins, lipstick, phone, keys, mirror, wallet. Hang your purse on the back of a chair or on a hook under the table. Never put it on the table, this is a sign of bad manners. Do not forget to go to the ladies' room to wash your hands before eating. Eliminate questionable dishes from the menu. You don’t know how your partner’s stomach will react to exotic food. It’s better to inquire about their preferences in advance. Leave fatty, spicy, and liquid dishes for subsequent dates. On the first day, limit yourself to, for example, a salad, steak, fish, coffee and cake. In general, something simple, but no less tasty. Praising yourself incessantly, interrogating, asking about your salary level and availability of real estate is incorrect and inappropriate. Be more modest, this will add pluses to you. You shouldn’t talk about politics and religion. In this case, the girl can pay for her order herself, without giving unnecessary hopes and without putting the gentleman in an unpleasant position. It’s better to say directly that there will be no more meetings. Just don’t make excuses and read out the entire list of shortcomings with which the suitor unpleasantly surprised you and turned you away. Just apologize and leave. The lady can allow herself to be escorted home, but no further. A kiss on the cheek is not forbidden. Do not rush things, give time to your partner to open up and yourself to get used to it. Let the relationship develop gradually, as it should, and everything goes as usual. And happiness to you!",
+        "language": {
+            "RU": {
+                "title": "Свидание с женщиной в кафе, Часть 2",
+                "memoir": "Подача руки, открытие двери, перемещение стула — это общеизвестные приемы мужского этикета. Девушкам не стоит торопиться все делать самим, или быстрее занимать место в кафе или ресторане. Жадно поглощать принесенные блюда, заказывая при этом добавки, тоже не рекомендуется. Ведь вы пришли узнать человека поближе, а не его платежеспособность. Оставьте дома большие сумки. Возьмите с собой только самое необходимое: салфетки, помаду, телефон, ключи, зеркало, кошелек. Повесьте сумочку на спинку стула или на крючок под столом. Никогда не кладите ее на стол, это признак невоспитанности. Не забудьте зайти в дамскую комнату, чтобы помыть руки перед едой. Исключите из меню сомнительные блюда. Вы не знаете, как желудок вашего партнера отреагирует на экзотическую пищу. Лучше заранее поинтересоваться его предпочтениями. Жирные, острые и жидкие блюда оставьте для последующих свиданий. В первый день ограничьтесь, например, салатом, стейком, рыбой, кофе и пирожным. В общем, что-то простое, но от этого не менее вкусное. Беспрестанно расхваливать себя, допрашивать, спрашивать об уровне зарплаты и наличии недвижимости — некорректно и неуместно. Будьте скромнее, это добавит вам плюсов. Не стоит говорить о политике и религии. В этом случае девушка может сама оплатить свой заказ, не давая лишних надежд и не ставя кавалера в неприятное положение. Лучше прямо сказать, что больше встреч не будет. Только не оправдывайтесь и не зачитывайте весь список недостатков, которыми ухажер вас неприятно удивил и отшил. Просто извинитесь и уходите. Дама может позволить проводить себя до дома, но не дальше. Поцелуй в щеку не возбраняется. Не торопите события, дайте время партнеру раскрыться, а вам — привыкнуть. Пусть отношения развиваются постепенно, как надо, и все идет своим чередом. И счастья вам!"
+            }
+        }
+    }
+}
